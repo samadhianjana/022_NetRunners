@@ -1,0 +1,142 @@
+we will be predicting the elections based on two surveys.
+	1. Science with Ruchira Youtube channel survey.
+	2. Numbers.lk survey
+
+We will consider the following factors when predicting election results using the surveys,
+	1. Sample Bias
+	2. Sample size
+	3. We will be considering the worst case senarios for each candidates.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1) Science with Ruchira survey.
+
+This survey was done as a poll in Youtube.
+participant count - 87000. 
+
+survey results,
+
+1st place- Anura Kumara Dissanayake  79%
+2nd place- Ranil Wickramasinghe      13%
+3rd place- Sajith Premadasa           5%
+4th place- Namal Rajapaksha           2%
+
+**Note that as the result of this survey we will only calculate the percentage of votes taken from the leading candidate**
+
+Averege Participant background
+* sinhala speaking participants with O/l qualifications or higher qualifications.
+
+Assumptions we make when predicting the final results.
+* sinhala speaking population is a percentage of the sinhalese population
+
+---------------------------------------------------------------------------------------------------
+
+population with respect to race in srilanka
+
+Age Range	%	Total Population	Sinhalese population	Non-sinhalese population
+19-23		10.5	1,731,325		1,296,762		434,563
+24-33		18.8	3,091,674		2,315,664		776,010
+34-43		18.2	2,992,261		2,241,203		751,058
+44-53		17.3	2,851,901		2,136,074		715,827
+54-63		15.2	2,495,913		1,869,439		626,474
+64+		20	3,292,398		2,466,006		826,392
+
+
+----------------------------------------------------------------------------------------------------
+
+
+
+Age Range	Sinhalese population	percentage having O/l or higher		sinhalese population with
+					education qualification			higher qualification
+
+19-23		1,296,762			0.458				593,731	
+24-33		2,315,664			0.489				1,133,069
+34-43		2,241,203			0.411				920,666
+44-53		2,136,074			0.342				731,270
+54-63		1,869,439			0.296				552,979
+64+		2,466,006			0.221				546,188
+
+----------------------------------------------------------------------------------------------------
+
+**Note that as following results are only calculated for the leading candidate.**
+
+We will consider the votes of following three categories of the population for final prediction.
+	1)sinhalese with O/L or higher qualification
+	2)sinhalese without O/L or higher qualification
+	3)minorities
+
+now we can consider few senarios.
+
+1.minority vote will be same as previous election for the leading candidate (3%)
+  sinhalese without O/L or higher qualification vote wil be 33% for the leading candidate.(considering votes will be distributed among three major parties.)
+
+win prediction of the leading candidate=38%
+
+2.minority vote will be same as previous election for the leading candidate (3%)
+  sinhalese without O/L or higher qualification vote wil be 50% for the leading candidate.(considering favourity for the leading candidate.)
+
+win prediction of the leading candidate=46%
+
+3.minority vote will be higher for the leading candidate (10%)
+  sinhalese without O/L or higher qualification vote wil be 33% for the leading candidate.(considering votes will be distributed among three major parties.)
+
+win prediction of the leading candidate=39%
+
+4.minority vote will be higher for the leading candidate (10%)
+  sinhalese without O/L or higher qualification vote wil be 50% for the leading candidate.(considering favourity for the leading candidate.)
+
+win prediction of the leading candidate=49%
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2) Numbers.lk survey
+
+Total responses-3900
+Participants from All three languages
+Error margin +/- 3%
+
+1 st vote
+
+Win percentages,
+1st place- Anura Kumara Dissanayake  43%
+2nd place- Ranil Wickramasinghe      27%
+3rd place- Sajith Premadasa          22%
+4th place- Namal Rajapaksha           3%
+undicided votes                       2%
+other votes                           2%
+
+
+since a candidate needs to get more than 50% to be the president most likely there will be 
+a second vote count.
+
+2 nd vote
+
+Ranil Wickramasinghe      31.25%
+no second vote            27.34%
+Anura Kumara Dissanayake  25.78%
+undicided votes           13.28%
+Namal Rajapaksha           0.78%
+other votes                1.56%
+
+
+So according to this survey ranil has an advantage in the second vote counting round.
+
+*How ever even after the second round Anura Kumara dissanayake will be on top.
+
+So our predicion is Anura Kumara Dissanayake will get close to 46% votes on the first round 
+and after the second round he would still be on top.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
